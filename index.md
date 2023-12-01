@@ -1,4 +1,6 @@
 # Anh Thieu
+
+**Education**
 Computer Science Year 1
 
 **Summary**
