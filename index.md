@@ -12,4 +12,5 @@ Currently enrolled in Computer Science at McMaster University
 
 **Contacts**
 Email: thieup1@mcmaster.ca
+
 LinkedIn: www.linkedin.com/in/phuonganhthieu
