@@ -9,5 +9,5 @@ Currently enrolled in Computer Science at McMaster University
 -Elm
 
 #Contacts
-Email: thieup1@mcmaster.ca
-LinkedIn: www.linkedin.com/in/phuonganhthieu
+##Email: thieup1@mcmaster.ca
+##LinkedIn: www.linkedin.com/in/phuonganhthieu
