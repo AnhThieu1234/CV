@@ -4,12 +4,15 @@
 
 Computer Science Year 1
 
+
 **Summary**
 
 Currently enrolled in Computer Science at McMaster University
 
+
 **Skills**
 -Python, Elm
+
 
 **Contacts**
 
