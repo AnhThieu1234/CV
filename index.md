@@ -2,12 +2,12 @@
 
 **Education**
 
-Computer Science Year 1
+-Computer Science Year 1
 
 
 **Summary**
 
-Currently enrolled in Computer Science at McMaster University
+-Currently enrolled in Computer Science at McMaster University
 
 
 **Skills**
@@ -16,6 +16,6 @@ Currently enrolled in Computer Science at McMaster University
 
 **Contacts**
 
-Email: thieup1@mcmaster.ca
+-Email: thieup1@mcmaster.ca
 
-LinkedIn: www.linkedin.com/in/phuonganhthieu
+-LinkedIn: www.linkedin.com/in/phuonganhthieu
