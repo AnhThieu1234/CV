@@ -1,2 +1,2 @@
 # Anh Thieu
-## Computer Science at Mcmaster University
+Computer Science at Mcmaster University
